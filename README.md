@@ -7,5 +7,7 @@
 • MVC Architecture in Unity
 # What can be added?
 • Randomly generating initial map
+
 • Checking for minimum tile match to process
+
 • Swapping tiles
